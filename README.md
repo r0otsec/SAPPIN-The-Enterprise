@@ -1,4 +1,4 @@
-![Alt text of the image](https://github.com/username/repository/blob/master/img/octocat.png)
+<div align="center"><img src="https://github.com/r0otsec/SAPPIN-The-Enterprise/blob/main/img/SAPPING.png" width="500"></div>
 
 # SAPPIN' The Enterprise
 
